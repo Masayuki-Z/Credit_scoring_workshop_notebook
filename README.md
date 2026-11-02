@@ -34,3 +34,5 @@ The main goals of this project are to:
 Credit_scoring_workshop_notebook/
 ├── credit_scoring.ipynb   # Main notebook containing the full workflow
 └── README.md              # Project documentation
+
+@credit: pornpra.cvk@gmail.com
